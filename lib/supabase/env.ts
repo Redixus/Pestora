@@ -18,3 +18,5 @@ export function getServiceRoleKey() {
 
   return key;
 }
+NEXT_PUBLIC_SUPABASE_URL=https://ejgwoibzntynlphzffts.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_zoKE4XMbPc567teNVyOUhQ_qS3ofwvw
